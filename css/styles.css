@@ -1,0 +1,18 @@
+body {
+  background-color: grey;
+}
+
+h2.intro {
+ color:brown;
+
+}
+
+p.intro {
+  font-size: 10px;
+}
+
+img.intro {
+  width: 70%;
+  height: 30%;
+
+}
