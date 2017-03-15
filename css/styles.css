@@ -2,6 +2,7 @@ body {
   background-color: grey;
 }
 
+/*
 h2.intro {
  color:brown;
 
@@ -15,4 +16,17 @@ img.intro {
   width: 70%;
   height: 30%;
 
+}
+
+*/
+
+.intro {
+  color:brown;
+  font-size: 10px;
+
+}
+
+img.intro {
+  width: 70%;
+  height: 30%;
 }
